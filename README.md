@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Oi, eu sou <a href="https://eudecio.dev/" rel="nofollow">Eudécio</a>, um apaixonado desenvolvedor freelance do Brasil. 
 Me preocupo em obter a melhor experiência possivel para o usuário.
 Gosto de aprender novas linguagens e estou sempre buscando novas tecnologias.
